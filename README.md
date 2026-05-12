@@ -1,2 +1,2 @@
 # Demo
-![CI](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg)
+[![CI](https://github.com/srisuth/Demo/actions/workflows/actions.yml/badge.svg)](https://github.com/srisuth/Demo/actions/workflows/actions.yml)
