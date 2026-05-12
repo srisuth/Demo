@@ -1,2 +1,2 @@
 # Demo
-[![CI](https://github.com/OWNER/REPO/actions/workflows/WORKFLOW_FILE.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/WORKFLOW_FILE.yml)
+![CI](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg)
